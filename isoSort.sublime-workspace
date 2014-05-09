@@ -1,0 +1,1280 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prepare",
+				"preparedData"
+			],
+			[
+				"test",
+				"testVar"
+			],
+			[
+				"side",
+				"sideNavBox"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"dopi",
+				"dopi-overlay"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"z-i",
+				"z-index"
+			],
+			[
+				"sidena",
+				"sideNav"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"slider",
+				"sliderPosition"
+			],
+			[
+				"wp",
+				"wpxp_closed"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"sou",
+				"sourcePath"
+			],
+			[
+				"edit",
+				"editModeHint"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"slideshow",
+				"slideshow-bullet"
+			],
+			[
+				"defa",
+				"defaultColor"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"n",
+				"negation(@color1, @color2)"
+			],
+			[
+				"wpxp",
+				"wpxp-megadd"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"accent",
+				"accentColor_2"
+			],
+			[
+				"Helve",
+				"HelveticaNeueLTStd"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"a",
+				"act	CSS - :active"
+			],
+			[
+				"breaki",
+				"breakingNewsItems"
+			],
+			[
+				"break",
+				"breakingNewsItems"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"max",
+				"maxLeft"
+			],
+			[
+				"sliderco",
+				"sliderContent"
+			],
+			[
+				"backgro",
+				"background-position"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"doka",
+				"doka_bg_button_more"
+			],
+			[
+				"doka_",
+				"doka_button_slideshow_left"
+			],
+			[
+				"default",
+				"defaultColorDark"
+			],
+			[
+				"acce",
+				"accentColor_2"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"left",
+				"leftPos"
+			],
+			[
+				"contex",
+				"context"
+			],
+			[
+				"defaul",
+				"defaultColor"
+			],
+			[
+				"def",
+				"defaultColorDark"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"_patter",
+				"_patterns  (variable)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"valid",
+				"validityState"
+			],
+			[
+				"valida",
+				"validationMessage"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"val",
+				"validate"
+			],
+			[
+				"onSubmit",
+				"onSubmitHandler"
+			],
+			[
+				"onsub",
+				"onsubmit"
+			],
+			[
+				"better",
+				"betterForms"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"_val",
+				"_validationErrorsArr"
+			],
+			[
+				"top",
+				"wpxp-topnavigation"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"ms",
+				"ms-dialog"
+			],
+			[
+				"overflo",
+				"overflow"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"lt",
+				"lt-ie9"
+			],
+			[
+				"insta",
+				"instanceKey"
+			],
+			[
+				"tes",
+				"testrun"
+			],
+			[
+				"out",
+				"outerWidth"
+			],
+			[
+				"icon",
+				"icon-close"
+			],
+			[
+				"script",
+				"script"
+			],
+			[
+				"_mod",
+				"_modules"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"sliderCo",
+				"sliderContent"
+			],
+			[
+				"sliderConte",
+				"sliderContentWrapper"
+			],
+			[
+				"_col",
+				"_colOffset"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"bg",
+				"bg	background: #${1:000};"
+			],
+			[
+				"ms-core-lis",
+				"ms-core-listMenu-item"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"file",
+				"file_path_relative"
+			],
+			[
+				"i",
+				"if"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"mouseo",
+				"mouseout"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"conten",
+				"contentBox"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"wpx",
+				"wpxp-megadd"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fl",
+				"fl-r	float: right;"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"lis",
+				"lisi	list-style-image"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"fw",
+				"fw-b	font-weight: bold;"
+			],
+			[
+				"ms-core",
+				"ms-core-listMenu-item"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"init",
+				"initSize"
+			],
+			[
+				"ju",
+				"jumbMenu"
+			],
+			[
+				"ini",
+				"initSize"
+			],
+			[
+				"match",
+				"matches"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "var isoSort 	= function(str1, str2) {\n	var args 		= [ arguments[0], arguments[1] ],\n		flipped 	= false;\n	// str1.length has to be smaller than str2.length\n	if( str1.length > str2.length ) {\n		// so we flip if str1.length is greater\n		// and flip the return value as well\n		// depending on the switch-var 'flipped'\n		var flipped = true,\n			temp 	= str1;\n			str1 	= str2;\n			str2 	= temp;\n	}\n	for ( var i = 0; i < str1.length; i++ ) {\n		chars = [str1.charCodeAt( i ), str2.charCodeAt( i )];\n		// change enity-charCodes to faked half steps of their root letters\n		for ( var j = 0; j < chars.length; j++ ) {\n			if ( chars[j] == 228 ) chars[j] = 97.5; 	// ä => a.5\n			if ( chars[j] == 196 ) chars[j] = 65.5; 	// Ä => A.5\n			if ( chars[j] == 252 ) chars[j] = 117.5; 	// ü => u.5\n			if ( chars[j] == 220 ) chars[j] = 85.5; 	// Ü => U.5\n			if ( chars[j] == 246 ) chars[j] = 111.5; 	// ö => o.5\n			if ( chars[j] == 214 ) chars[j] = 79.5; 	// O => O.5\n		} // ENDFOR (j)\n\n		// SORT\n		if ( chars[0] > chars[1] ) {\n			log( args[0] + ' comes AFTER '+args[1]);\n			return !flipped? 1 : -1;\n		} else if ( chars[0] == chars[1] ) {\n			ret = 0;\n		// ZERO ! chars are equal!\n		// return now ...\n		// ... or continue to check the other chars\n\n			// if its the last char of str1\n			if ( i == str1.length-1 ) {\n				// and if string length is equal to str2 ...\n				if (str1.length === str2.length) {\n					// strings are equal\n					log( args[0] + ' is EQUAL with '+args[1]);\n					return 0;\n				} else {\n					// str2.length is greater than str1.length\n					// because we check the length on the beginning of the function\n					log( args[0] + ' comes BEFORE '+args[1]);\n					return !flipped? -1 : 1;\n				}\n			}\n			// \"else\" -> continue the for loop\n		} else {\n			log( args[0] + ' comes BEFORE '+args[1]);\n			return !flipped? -1 : 1;\n		}\n	} // ENDFOR (i)\n};",
+			"file": "lib/isoSort.vanilla.js",
+			"file_size": 0,
+			"file_write_time": 130441010603058727,
+			"settings":
+			{
+				"buffer_size": 1827,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n	<title>isoSort() - sort german vowel mutation naturally</title>\n	<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />\n\n	<script type=\"text/javascript\" src=\"./lib/isoSort.vanilla.js\"></script>\n	<script src=\"http://code.jquery.com/jquery-1.11.0.min.js\"></script>\n	<script type=\"text/javascript\">\n	(function(window, $, undefined){ 	// closure\n	$(function() {						// document.ready()\n\n\n\n\n\n	});\n	})(window, window.jQuery);\n	</script>\n</head>\n<body>\n	<div id=\"wrapper\">\n		<h1>isoSort() - sort german vowel mutation naturally</h1>\n		<p>\n			\n		</p>\n\n		<code>\n\n		</code>\n	</div>\n</body>\n</html>",
+			"file": "index.html",
+			"file_size": 648,
+			"file_write_time": 130441015991919472,
+			"settings":
+			{
+				"buffer_size": 639,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "isoSort.html",
+			"settings":
+			{
+				"buffer_size": 3272,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "UMDASCH - Copy to Network",
+	"command_palette":
+	{
+		"height": 173.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"wwa",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssle",
+				"Set Syntax: LESS"
+			],
+			[
+				"ssjavasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"ssless",
+				"Set Syntax: LESS"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"Snippet: ",
+				"Snippet: commentblock"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"i",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inspa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"snipc",
+				"Snippet: cssreset"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add fol",
+				"Project: Add Folder"
+			],
+			[
+				"ssjsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ssjas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 118.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/child-process.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/unwind.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/started.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/stack-overflow2.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/stack-overflow.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/process-title.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/pool.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/illegal-yield.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/future-exception.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/future.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/finish-multiple.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/fibonacci.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/exit.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/exec.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/current.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/bad-context.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/test/already-running.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/node_modules/fibers/build.js",
+		"/C/Users/friedls/Documents/private/afk__xy.it.au3",
+		"/C/Users/friedls/Desktop/test.html",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/server/startup/loadUsers.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/client/config/accounts.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/model/OfferPics.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/smart.json",
+		"/C/xampp/htdocs/utils/GITHUB/jquery.pluginBoilerBlate/.gitignore",
+		"/C/xampp/htdocs/tank/WPXP/responsive-checker/web/trunk/lib/ResponsiveChecker.class.php",
+		"/C/xampp/htdocs/tank/WPXP/responsive-checker/web/trunk/lib/blacklist.csv",
+		"/C/xampp/htdocs/tank/WPXP/responsive-checker/web/trunk/lib/whitelist.csv",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Design/Script/umdasch.js",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/client/modules/statusbar/statusbar.html",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/wpxpUmdaschDopiFrontend/dopi.script.js",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Design/PageTemplates/UAGBlankPage.aspx",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/wpxpUmdaschDopiFrontend/wpxpUmdaschDopiDataTableNews.js",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/wpxpUmdaschDopiFrontend/wpxpUmdaschDopiDataTable.js",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/wpxpUmdaschDopiFrontend/wpxpUmdaschDopiTree.js",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/PagesDE/News.aspx",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/wpxpUmdaschDopiFrontend/DataTable/ColumnFilterWidgets.js",
+		"/T/masterpage/Umdasch/Script/wpxpUmdaschDopiFrontend/wpxpUmdaschDopiDataTableNews.js",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Design/Style/doka.less",
+		"/C/!projects/umdaschint/.gitignore",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Design/Style/umdaschag.less",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Design/Style/umdaschshopfitting.less",
+		"/C/Users/friedls/Desktop/BAK_dopidatatable.txt",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Design/Style/mixins_rte.less",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/wpxpUmdaschDopiFrontend/umdasch_dopi.css",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/wpxpUmdaschDopiFrontend/DataTable/jquery.dataTables.min.js",
+		"/C/xampp/htdocs/tank/bawaglandingpage/legenden/web2/index.html",
+		"/C/xampp/htdocs/tank/bawaglandingpage/legenden/web2/js/main.js",
+		"/C/Users/friedls/Desktop/culturejamming.txt",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/wpxpUmdaschDopiDataTable/wpxpUmdaschDopiDataTable.ascx",
+		"/T/masterpage/Umdasch/UAGDopiStartpageNews.aspx",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/smart.lock",
+		"/Y/masterpage/Umdasch/UAGDopiStartpageNews.aspx",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/wpxpUmdaschDopiFrontend/Elements.xml",
+		"/C/Users/friedls/AppData/Local/Temp/scp51339/kunden/319888_2100/webseiten/project23/wpmu/wp-content/themes/irresistible/single-quotes.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp56512/kunden/319888_2100/webseiten/project23/wpmu/wp-content/themes/irresistible/archive.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp56842/kunden/319888_2100/webseiten/project23/wpmu/wp-content/themes/irresistible/comments.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp56168/kunden/319888_2100/webseiten/project23/wpmu/wp-content/themes/irresistible/footer.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp56490/kunden/319888_2100/webseiten/project23/wpmu/wp-content/themes/irresistible/functions.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp56910/kunden/319888_2100/webseiten/project23/wpmu/wp-content/themes/irresistible/header.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp56373/kunden/319888_2100/webseiten/project23/wpmu/wp-content/themes/irresistible/image.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp56777/kunden/319888_2100/webseiten/project23/wpmu/wp-content/themes/irresistible/index.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp52420/kunden/319888_2100/webseiten/project23/wpmu/wp-content/themes/irresistible/page.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp56586/kunden/319888_2100/webseiten/project23/wpmu/wp-content/themes/irresistible/sidebar.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp56279/kunden/319888_2100/webseiten/project23/wpmu/wp-content/themes/irresistible/single.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp55263/kunden/319888_2100/webseiten/project23/wpmu/wp-content/themes/irresistible/quote-posttype/p23-posttypes-widgets.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp54587/kunden/319888_2100/webseiten/project23/wpmu/wp-content/themes/irresistible/quote-posttype/wp-quotebase.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp54450/kunden/319888_2100/webseiten/project23/wpmu/wp-content/themes/irresistible/quote-posttype/p23_register_quotes_posttype.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp50739/kunden/319888_2100/webseiten/project23/wpmu/wp-content/themes/irresistible/functions.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp50145/kunden/319888_2100/webseiten/project23/wpmu/wp-content/themes/irresistible/p23-posttypes_templates/p23-posttypes-sidebar.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp47914/kunden/319888_2100/webseiten/project23/wpmu/wp-content/plugins/project23/inc/p23-plugins/p23-spamblocker/inc/p23-spamblocker-admin.class.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp47539/kunden/319888_2100/webseiten/project23/wpmu/wp-content/plugins/project23/inc/p23-plugins/p23-spamblocker/inc/p23-spamblocker-admin.php",
+		"/Y/masterpage/Umdasch/Script/wpxpUmdaschDopiFrontend/ColumnFilterWidgets.js",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/wpxpUmdaschDopiFrontend/wpxpUmdaschDopiDataTablebak.js",
+		"/C/Users/friedls/Desktop/wpxp.helpers.js",
+		"/Y/masterpage/Umdasch/Script/wpxpUmdaschDopiFrontend/dopi.script.js",
+		"/Y/masterpage/Umdasch/Script/wpxpUmdaschDopiFrontend/wpxpUmdaschDopiDataTable.js",
+		"/Y/masterpage/Umdasch/Script/wpxpUmdaschDopiFrontend/dopi.jquery.mousewheel.js",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Design/Style/umdasch_base.less",
+		"/Y/masterpage/Umdasch/Style/wpxpUmdaschDopiFrontend/umdasch_dopi.css",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Import/wpxpUmdaschDopiSettingsFiles/DopiSettings.js",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/LayoutPages/UAGDopiDEPage.aspx",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/LayoutPages/UAGDopiStartpage.aspx",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/LayoutPages/UAGDopiENPage.aspx",
+		"/Y/masterpage/Umdasch/Script/jquery-1.8.1.min.js",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Import/Layouts/wpxp.Umdasch.Dopi.Import/DopiSettings.aspx",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Design/Script/jquery-1.8.1.min.js",
+		"/Y/Style/wpxpUmdaschDopiFrontend/umdasch_dopi.css",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/wpxpUmdaschDopiFrontend/umdaschdopishopfitting.css",
+		"/Y/Style/wpxpUmdaschDopiFrontend/umdaschdopishopfitting.css",
+		"/Y/Style/wpxpUmdaschDopiFrontend/umdaschdopidoka.css",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/wpxpUmdaschDopiFrontend/umdaschdopidoka.css",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/wpxpUmdaschDopiFrontend/umdaschdopiuag.css",
+		"/Y/Style/wpxpUmdaschDopiFrontend/umdaschdopiuag.css",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Design/Style/helper.less",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Design/Style/mixins.less",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/client/routes/HomeRoute.js",
+		"/C/Users/friedls/Downloads/wpxpumdaschdopidatatable.js",
+		"/Y/Style/umdaschag.css",
+		"/Y/Style/umdaschshopfitting.css",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Design/Style/umdasch_pagelayout_edit.css",
+		"/T/masterpage/Umdasch/Style/wpxpUmdaschDopiFrontend/umdasch_dopi.css",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Design/Style/umdasch_default.less",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Dopi.Frontend/wpxpUmdaschDopiFrontend/wpxpUmdaschDopiTree.js.orig",
+		"/T/masterpage/Umdasch/Style/umdaschshopfitting.css",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/client/views/admin/home/home.html",
+		"/C/xampp/htdocs/utils/GITHUB/meteor/bulletin-managing-system/client/views/admin/home/home.js",
+		"/X/Umdasch/Script/umdasch.js",
+		"/C/xampp/htdocs/tank/tests/sass_mq_and_modules/styles/sass/lib/_mixins.scss",
+		"/Y/Script/wpxpUmdaschDopiFrontend/dopi.script.js",
+		"/C/Users/friedls/Documents/! utils/utils.js",
+		"/C/Users/friedls/Documents/! utils/! JS/jQuery/helper/form_handling__validation_and_ajax_request.js",
+		"/C/Users/friedls/Documents/! utils/! JS/utils.js",
+		"/Y/Script/wpxpUmdaschDopiFrontend/wpxpUmdaschDopiDataTable.js",
+		"/Y/Script/wpxpUmdaschOrgTree/umdaschorgTree.js",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Design/_compressed_and_cleaned/memo.txt",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Design/Script/SharePointProjectItem.spdata",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Design/Script/umdaschImageChannelNavigation.js",
+		"/Y/Style/wpxpUmdaschDopiFrontend/umdasch_dopi_tree.css",
+		"/C/!projects/umdaschint/wpxp.Umdasch.Design/wpxp.Umdasch.Design/Script/employeeSlider.js",
+		"/Y/Script/doka.js",
+		"/C/Users/friedls/AppData/Local/Temp/scp24593/__phpinfo.php",
+		"/C/Users/friedls/AppData/Local/Temp/scp24431/index.html",
+		"/C/xampp/htdocs/utils/ruby/ruhoh/config.yml",
+		"/C/xampp/htdocs/utils/ruby/ruhoh/theme-bootstrap-2/_root/categories.html",
+		"/C/xampp/htdocs/utils/ruby/ruhoh/theme-bootstrap-2/layouts/posts.html",
+		"/C/xampp/htdocs/utils/ruby/ruhoh/theme-bootstrap-2/layouts/_root.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\!projects\\umdaschint\\wpxp.Umdasch.Design\\",
+			"C:\\!projects\\umdaschint\\wpxp.Umdasch.Design\\wpxp.Umdasch.Dopi.Frontend,C:\\!projects\\umdaschint\\wpxp.Umdasch.Design\\wpxp.Umdasch.Design",
+			"C:\\!projects\\umdaschint\\wpxp.Umdasch.Design\\wpxp.Umdasch.Dopi.Frontend",
+			"C:\\!projects\\umdaschint\\wpxp.Umdasch.Design\\wpxp.Umdasch.Design",
+			"<open files>,C:\\!projects\\umdaschint\\wpxp.Umdasch.Design\\wpxp.Umdasch.Design",
+			"<open files>",
+			"<open files>,C:\\!projects\\umdaschint\\wpxp.Umdasch.Design\\wpxp.Umdasch.Design\\Style",
+			"<open files>",
+			"C:\\xampp\\htdocs\\utils\\GITHUB\\jquery.betterForms"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"//",
+			", ",
+			"\"",
+			"getFileRecord",
+			"uploadProgress",
+			"inWhite",
+			"inWhiteList",
+			", true",
+			",",
+			",true",
+			"prepareURL",
+			"load",
+			"','",
+			"', '",
+			"',  '",
+			"		",
+			"loadMatchlist",
+			"inMatch",
+			"inBlackl",
+			"blacklistFile",
+			"whitelistFile",
+			"loadMatchlis",
+			"loadMatchlist",
+			"$blacklist",
+			"$whitelist",
+			"inWhite",
+			"inw",
+			"inBlack",
+			"fnDrawCallback",
+			"renderdata",
+			"renderDataTable",
+			"trigger",
+			"SPrea",
+			"table",
+			" th ",
+			"th ",
+			"th",
+			"table",
+			"class= '",
+			"initSortFunctions",
+			"a",
+			"sType",
+			"/",
+			"sType",
+			"if (request.title != \"Pages\") {",
+			"sType",
+			"ai",
+			"dopiHeaderTooltipFilter",
+			"sort down",
+			"0",
+			"a",
+			"log",
+			"widget",
+			"sType",
+			"/",
+			"sType",
+			"\".\"",
+			"sType",
+			"getMonth",
+			"\".\"",
+			".",
+			"sType",
+			"treeLanguageval === 'en'",
+			"treeLanguageval",
+			"sType",
+			"request.day",
+			"log",
+			"sType",
+			"ms-formlabel",
+			".ms-formlabel h3.ms-standardheader",
+			"log(",
+			");\n",
+			"b[2]+b[1]+b[0]",
+			"a[2]+a[1]+a[0]",
+			"b[2]+b[1]+b[0]",
+			"a[2]+a[1]+a[0]",
+			"a",
+			"treeLanguageval",
+			"initSort",
+			"Ext",
+			"oSort",
+			"sType",
+			"b.",
+			"a.sp",
+			"sType",
+			"string",
+			"sType",
+			"date",
+			"string",
+			"sType",
+			"stype",
+			"html",
+			"sType",
+			"a, b",
+			"string",
+			"sType",
+			"//mark",
+			"sType",
+			"html",
+			"j.ext",
+			"dataTableExt",
+			"log(",
+			"oColumn",
+			"pdsconfi",
+			"log",
+			"logh",
+			"log",
+			",",
+			"log",
+			";\n",
+			"jQuery.fn.dataTableExt.oSort with arguments",
+			"string",
+			"customDateSortFn",
+			"customDateSort",
+			"stype",
+			"renderDa",
+			".trigger",
+			"dataTable()",
+			"dataTab",
+			"datatable()",
+			"datatable(),",
+			"datatable()",
+			"http://www.bawagpsk.com/BAWAGPSK/firmenkunden/CB/Zahlungsverkehr",
+			"http://www.bawagpsk.com/BAWAGPSK/businesskunden",
+			"a[",
+			"[[",
+			"fnDraw",
+			"oDataTableSettings"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/!projects/",
+			"<!",
+			"<div class=\"cf\" ></div>",
+			"<div class=\"cf\" ></div",
+			"<div class=\"cf\" />",
+			"<br class=\"cf\" />",
+			"<div class=\"cf\" />"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/isoSort.vanilla.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								436,
+								436
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "isoSort.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								167
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 147.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "isoSort.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
