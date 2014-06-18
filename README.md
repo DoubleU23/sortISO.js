@@ -20,3 +20,7 @@ console.log( sorted );
 
 ## toDo
 *) attach to Array prototype for better usage - ['abc', 'äbc', 'Äbc', 'Abc'].isoSort()
+
+## License
+copyleft by Stefan Friedl (k) all rights reversed
+[Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
