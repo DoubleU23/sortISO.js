@@ -64,7 +64,9 @@ code:hover { overflow: auto !important; }
 pre code {
 	border: 1px dotted #666;
 	padding: 10px;
+	display: block;
 }
+	pre code span { display: inline-block; }
 	pre[class*='language-'] > code[data-language]::before { right: 17px !important; }
 
 

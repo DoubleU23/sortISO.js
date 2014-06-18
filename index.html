@@ -25,29 +25,30 @@ console.log( sorted );</code></pre>
 		<pre class="toggleTarget"><code class="language-javascript">["Abc", "&Auml;bc", "abc", "&auml;bc"]</code></pre>
 
 		<h2>The Code</h2>
-		<pre data-src="./lib/isoSort.vanilla.js"></pre>
+		<pre data-src="lib/isoSort.vanilla.js"></pre>
 
 	</div> <!-- ENDOF #WRAPPER -->
 
-	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<!-- // <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script> -->
+	<script>
+    	window.jQuery || document.write('<script src="http://code.jquery.com/jquery-1.11.0.min.js"><\/script>');
+    </script>
 	<script type="text/javascript" src="./lib/plugins/prism.js/prism.min.js"></script>
 	<script type="text/javascript" src="./lib/isoSort.vanilla.js"></script>
 	<script type="text/javascript">
 	(function(window, $, undefined) {
 		$(function() {
+
 			$('.toggleTrigger').on('click', function(e) {
-		console.log('clicked');
-				var $this 	= $(this),
-					$target = $this.parent().next('.toggleTarget');
+				var $this 	= $(this)
+				,	$target = $this.parent().next('.toggleTarget')
+				;
 				$this.text( $this.text() === 'view output'? 'close output' : 'view output' );
-
-console.log( $target );
-
 				$target.slideToggle('visible');
 				return false;
 			});
 
-			});
+		});
 	})(window, window.jQuery);
 	</script>
 </body>

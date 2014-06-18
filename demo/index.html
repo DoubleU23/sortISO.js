@@ -6,17 +6,17 @@
 	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
 	<script>
 	var log 		= function(text) {
-			outputDiv 	= document.getElementById('output');
-			html 	= outputDiv.innerHTML;
-			if( text === 'clear' ) {
-				html = '';
-			}else{
-				for (var a = 0; a < arguments.length; a++) {
-					html = html+arguments[a]+" &mdash; ";
-				}
+		outputDiv 	= document.getElementById('output');
+		html 	= outputDiv.innerHTML;
+		if( text === 'clear' ) {
+			html = '';
+		}else{
+			for (var a = 0; a < arguments.length; a++) {
+				html = html+arguments[a]+" &mdash; ";
 			}
-			outputDiv.innerHTML = html+'<br />';
-		};
+		}
+		outputDiv.innerHTML = html+'<br />';
+	};
 	
 	var isoSort 	= function(str1, str2) {
 			var args 		= [ arguments[0], arguments[1] ],
@@ -79,19 +79,21 @@
 
 (function(window, $, undefined) {
 		$(function() {
-			var $str1 	= $('#string1'),
-				$str2 	= $('#string2'),
-				$output = $('#output2'),
-				compare = function(e) {
+			var $str1 		= $('#string1')
+			,	$str2 		= $('#string2')
+			,	$output 	= $('#output2')
+			,	$compare 	= $('#compare')
+			,	$form 		= $('#form')
+			,	compare = function(e) {
+
 					s1 	= $str1.val();
 					s2 	= $str2.val();
 					$output.html( isoSort(s1, s2) );
 					return false;
-				};
-
-			$('#compare').on('click', compare );
-			$('#form').on('submit', compare );
-
+				}
+			;
+			$compare.on('click', compare );
+			$form.on('submit', compare );
 		});
 })(window, window.jQuery);
 	</script>
