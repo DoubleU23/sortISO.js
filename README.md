@@ -12,17 +12,17 @@ var arr 	= ['abc', 'äbc', 'Äbc', 'Abc']
 console.log( sorted );
 ```
 
+> you can try the code for yourself in the console
+
 ## Output
 ```javascript
 ["Abc", "Äbc", "abc", "äbc"]
 ```
 
-> or try for yourself in the console
-
 
 ## toDo
-*) attach to Array prototype for better usage - ['abc', 'äbc', 'Äbc', 'Abc'].isoSort()
+* attach to Array prototype for better usage - ['abc', 'äbc', 'Äbc', 'Abc'].isoSort()
 
 ## License
-copyleft by Stefan Friedl (k) all rights reversed  
+all rights reversed (k) kopyleft by Stefan Friedl  
 [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)
