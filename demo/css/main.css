@@ -78,3 +78,15 @@ pre code {
 	.toggleTarget.visible {
 		
 	}
+
+#licence {
+	padding-top: 42px;
+	font-size: 11px;
+	text-align: center;
+}
+	#licence_link_img {
+		display: block;
+		text-align: center;
+	}
+	#licence_link, #licence_link a {
+	}
