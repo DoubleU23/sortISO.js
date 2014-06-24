@@ -25,4 +25,4 @@ console.log( sorted );
 
 ## License
 copyleft by Stefan Friedl (k) all rights reversed  
-[Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)
