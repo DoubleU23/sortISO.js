@@ -13,10 +13,12 @@ console.log( sorted );
 ```
 
 ## Output
-#### (or try for yourself in the console)
 ```javascript
 ["Abc", "Äbc", "abc", "äbc"]
 ```
+
+> or try for yourself in the console
+
 
 ## toDo
 *) attach to Array prototype for better usage - ['abc', 'äbc', 'Äbc', 'Abc'].isoSort()
