@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>isoSort() - JS string comparison enhanced for ÜÖÄß</title>
+	<title>sortUml() - JS string comparison enhanced for ÜÖÄß</title>
 	<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
 	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
 	<script>
@@ -18,7 +18,7 @@
 		outputDiv.innerHTML = html+'<br />';
 	};
 	
-	var isoSort 	= function(str1, str2) {
+	var sortUml 	= function(str1, str2) {
 			var args 		= [ arguments[0], arguments[1] ],
 				flipped 	= false;
 			// str1.length has to be smaller than str2.length
@@ -88,7 +88,7 @@
 
 					s1 	= $str1.val();
 					s2 	= $str2.val();
-					$output.html( isoSort(s1, s2) );
+					$output.html( sortUml(s1, s2) );
 					return false;
 				}
 			;
@@ -100,7 +100,7 @@
 </head>
 <body onload="main();">
 
-	<h1>isoSort() - JS string comparison enhanced for ÜÖÄß</h1>
+	<h1>sortUml() - JS string comparison enhanced for ÜÖÄß</h1>
 	<form action="" id="form">
 		<input type="text" id="string1" placeholder="String1" /><br />
 		<input type="text" id="string2" placeholder="String2" /><br />

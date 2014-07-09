@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>isoSort() - sort german vowel mutations naturally</title>
+	<title>sortUml() - sort umlauts (german vowel mutations) naturally</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
 	<link rel="stylesheet" type="text/css" href="./lib/plugins/prism.js/prism.css">
@@ -9,14 +9,14 @@
 </head>
 <body>
 	<div id="wrapper">
-		<h1>isoSort() - sort german vowel mutations naturally</h1>
+		<h1>sortUml() - sort german vowel mutations naturally</h1>
 		<p>
-			The Script changes the vowel mutaions ASCCI code to halfsteps of their original vowel and sorts the Array based on that fake ASCII-Codes
+			The Script changes the vowel mutaion's ASCCI code to halfsteps of their original vowel and sorts the array based on that fake ASCII codes
 		</p>
 
 		<h2>Usage:</h2>
 <pre><code class="language-javascript">var arr 	= ['abc', '&auml;bc', '&Auml;bc', 'Abc'],
-	sorted	= arr.sort( isoSort );
+	sorted	= arr.sort( sortUml );
 console.log( sorted );</code></pre>
 
 		<!-- OUTPUT -->
@@ -24,14 +24,14 @@ console.log( sorted );</code></pre>
 		<pre class="toggleTarget"><code class="language-javascript">["Abc", "&Auml;bc", "abc", "&auml;bc"]</code></pre>
 
 		<h2>The Code</h2>
-		<pre data-src="lib/isoSort.vanilla.js"></pre>
+		<pre data-src="lib/sortUml.vanilla.js"></pre>
 
 		
 		<div id="licence">
 			<a id="licence_link_img" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">
 				<img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
 			</a>
-			<span id="licence_link" xmlns:dct="http://purl.org/dc/terms/" property="dct:title">isoSort</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/DoubleU23/isoSort" property="cc:attributionName" rel="cc:attributionURL" target="_blank">Stefan Friedl</a> ist lizenziert unter einer<br /><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
+			<span id="licence_link" xmlns:dct="http://purl.org/dc/terms/" property="dct:title">sortUml</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/DoubleU23/sortUml" property="cc:attributionName" rel="cc:attributionURL" target="_blank">Stefan Friedl</a> ist lizenziert unter einer<br /><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
 		</div>
 
 	</div> <!-- ENDOF #WRAPPER -->
@@ -41,7 +41,7 @@ console.log( sorted );</code></pre>
     	window.jQuery || document.write('<script src="http://code.jquery.com/jquery-1.11.0.min.js"><\/script>');
     </script>
 	<script type="text/javascript" src="./lib/plugins/prism.js/prism.min.js"></script>
-	<script type="text/javascript" src="./lib/isoSort.vanilla.js"></script>
+	<script type="text/javascript" src="./lib/sortUml.vanilla.js"></script>
 	<script type="text/javascript">
 	(function(window, $, undefined) {
 		$(function() {
