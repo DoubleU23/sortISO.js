@@ -1,7 +1,6 @@
-# sortUml()
-## sort german vowel mutations
+# sortUml() - sort german umlauts
 
-The Script changes the vowel mutaions ASCCI code to halfsteps of their original vowel  
+The Script changes the german umlauts (vowel mutations) ASCCI code to halfsteps of their original vowel  
 and sorts the Array based on that fake ASCII-Codes
 
 ## Example
@@ -24,5 +23,5 @@ console.log( sorted );
 (remove logs, ...)
 
 ## License
-all rights reversed (k) kopyleft by Stefan Friedl  
-[Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)
+sortUml by [Stefan Friedl](https://github.com/DoubleU23/) is licensed under a  
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
