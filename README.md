@@ -12,8 +12,6 @@ var arr 	= ['abc', 'äbc', 'Äbc', 'Abc']
 console.log( sorted );
 ```
 
-> you can try the code for yourself in the console
-
 ## Output
 ```javascript
 ["Abc", "Äbc", "abc", "äbc"]
