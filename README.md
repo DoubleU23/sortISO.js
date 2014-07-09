@@ -22,6 +22,8 @@ console.log( sorted );
 
 ## toDo
 * attach to Array prototype for better usage - ['abc', 'äbc', 'Äbc', 'Abc'].isoSort()
+* cleaner versions:  
+(remove logs, ...)
 
 ## License
 all rights reversed (k) kopyleft by Stefan Friedl  
