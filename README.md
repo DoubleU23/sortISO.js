@@ -1,7 +1,6 @@
-# sortISO() - sort german umlauts
+# sortISO.js - sort german umlauts
 
-The Script changes the german umlauts (vowel mutations) ASCCI code to halfsteps of their original vowel  
-and sorts the Array based on that fake ASCII-Codes
+The Script changes the german umlauts (vowel mutations) ASCCI code to halfsteps of their original vowel and sorts the Array based on that fake ASCII-Codes
 
 ## Example
 ```javascript
