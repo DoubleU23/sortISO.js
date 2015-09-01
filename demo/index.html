@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>sortUml() - JS string comparison enhanced for ÜÖÄß</title>
+	<title>sortISO() - JS string comparison enhanced for ÜÖÄß</title>
 	<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="../lib/plugins/jquery.1.9.0.min.js"><\/script>') </script>
@@ -12,18 +12,24 @@
 				var $input 		= $('#input textarea')
 				,	$output 	= $('#output textarea')
 				,	$sort 		= $('#button_sort')
+				,	$clear 		= $('#button_clear')
 				,	$form 		= $('#form')
 				,	str, output
 				,	sort = function() {
+					console.log( $output );
 						strs 	= $input.val().replace(', ', ',').split("\n");
 						console.log('[INPUT-ARRAY]', strs);
-						output 	= strs.sort(sortUml);
-						$output.html( output.join("\n") );
+						output 	= strs.sort(sortISO);
+						$output.val( output.join("\n") ).html( output.join("\n") );
 						console.log('[OUTPUT ARRAY]', output);
 						return false;
 					}
 				;
 				$sort.on('click', sort );
+				$clear.on('click', function() {
+					$output.val('').html('');
+				});
+
 				sort();
 			});
 	})(window, window.jQuery);
@@ -32,7 +38,7 @@
 <body>
 
 	<div id="wrapper">
-		<h1>sortUml() - JS string comparison enhanced for ÜÖÄß</h1>
+		<h1>sortISO() - JS string comparison enhanced for ÜÖÄß</h1>
 		<p></p>
 		<div id="input">
 		<h3>Input</h3>
@@ -48,9 +54,10 @@ Ströng</textarea>
 			<h3>Output</h3>
 			<textarea type="text" placeholder="" cols="23" rows="10">OUTPUT</textarea><br />
 		</div>
-		<button id="button_sort">SORT</button>
+		<button class="button" id="button_sort">SORT</button>
+		<button class="button" id="button_clear">CLEAR</button>
 	</div>
 
-	<script src="../lib/sortUml.vanilla.min.js"></script>
+	<script src="../lib/sortISO.vanilla.min.js"></script>
 </body>
 </html> 

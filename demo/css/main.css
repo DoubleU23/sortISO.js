@@ -101,9 +101,10 @@ textarea { width: 100%; }
 	float: left;
 	margin-right: 10%;
 }
-	#button_sort {
+	.button {
 		clear: both;
 		font-size: 28px;
 	    padding: 8px 11px;
 	    margin-top: 23px;
 	}
+	#button_clear { float: right; margin-right: 90px; }

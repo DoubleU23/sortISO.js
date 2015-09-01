@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>sortUml() - sort german umlauts</title>
+	<title>sortISO() - sort german umlauts</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
 	<link rel="stylesheet" type="text/css" href="./lib/plugins/prism.js/prism.css">
@@ -9,14 +9,14 @@
 </head>
 <body>
 	<div id="wrapper">
-		<h1>sortUml() - sort german umlauts</h1>
+		<h1>sortISO() - sort german umlauts</h1>
 		<p class="teaser">
 			The Script changes the german umlauts (vowel mutations) ASCCI code to halfsteps of their original vowel and sorts the Array based on that fake ASCII-Codes
 		</p>
 
 		<h2>Usage:</h2>
 <pre><code class="language-javascript">var arr 	= ['abc', '&auml;bc', '&Auml;bc', 'Abc'],
-	sorted	= arr.sort( sortUml );
+	sorted	= arr.sort( sortISO );
 console.log( sorted );</code></pre>
 
 		<!-- OUTPUT -->
@@ -24,12 +24,12 @@ console.log( sorted );</code></pre>
 		<pre class="toggleTarget"><code class="language-javascript">["Abc", "&Auml;bc", "abc", "&auml;bc"]</code></pre>
 
 		<h2>The Code</h2>
-		<pre data-src="lib/sortUml.vanilla.js"></pre>
+		<pre data-src="lib/sortISO.vanilla.js"></pre>
 
 		
 		<div id="licence">
 			<a id="licence_link_img" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
-			<span id="licence_link" xmlns:dct="http://purl.org/dc/terms/" property="dct:title">sortUml</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/DoubleU23" property="cc:attributionName" rel="cc:attributionURL">Stefan Friedl</a> is licensed under a<br />
+			<span id="licence_link" xmlns:dct="http://purl.org/dc/terms/" property="dct:title">sortISO</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/DoubleU23" property="cc:attributionName" rel="cc:attributionURL">Stefan Friedl</a> is licensed under a<br />
 			<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 		</div>
 
@@ -41,7 +41,7 @@ console.log( sorted );</code></pre>
     	window.jQuery || document.write('<script src="http://code.jquery.com/jquery-1.11.0.min.js"><\/script>');
     </script>
 	<script type="text/javascript" src="./lib/plugins/prism.js/prism.min.js"></script>
-	<script type="text/javascript" src="./lib/sortUml.vanilla.js"></script>
+	<script type="text/javascript" src="./lib/sortISO.vanilla.js"></script>
 	<script type="text/javascript">
 	(function(window, $, undefined) {
 		$(function() {
