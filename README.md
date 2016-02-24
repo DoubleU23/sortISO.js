@@ -18,7 +18,3 @@ console.log( sorted );
 
 ## toDo
 * attach to Array prototype for better usage - ['abc', 'äbc', 'Äbc', 'Abc'].sortISO()
-
-## License
-sortISO by [Stefan Friedl](https://github.com/DoubleU23/) is licensed under a  
-[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
